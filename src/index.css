@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+}
+
+.font-display {
+  font-family: 'Barlow Condensed', -apple-system, sans-serif;
+}
+
+.font-body {
+  font-family: 'Plus Jakarta Sans', -apple-system, sans-serif;
+}
+
+/* Accessible focus outline */
+:focus-visible {
+  outline: 2px solid #F2B632;
+  outline-offset: 2px;
+}

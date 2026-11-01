@@ -1,0 +1,6 @@
+{
+  "name": "Cerrajería París",
+  "description": "Cerrajero a domicilio en Zapopan y Guadalajara. Apertura de autos y casas, llaves perdidas y programación de llaves con chip.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
